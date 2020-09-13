@@ -1,0 +1,9 @@
+import math
+class cone():
+ def c0ne(self,radius,height):
+    self.radius=radius
+    self.height=height
+ def volume(self,volume):
+         self.volume=3.14*radius**2*(height/3)
+         self.base=3.14*radius**2
+         self.side=3.14*radius*sqrt(radius**2+height**2)

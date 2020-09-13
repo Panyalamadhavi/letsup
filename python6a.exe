@@ -1,0 +1,22 @@
+class bankaccount():
+    def_init_(self,ownername,balance):
+    self.ownername=ownername
+    self.balance=balance
+    def getbankaccountdetails(self):
+         print("ownername"self.ownername)
+         print("balance"self.balance)
+         
+class person1(bankaccount):
+    def_init_(self,deposit):
+        self.deposit=deposit
+    def getdeposit(self)
+    print(self.deposit)
+    
+    class person2(self,withdraw):
+    def_init_(self,withdraw):   
+      self.withdraw=withdraw
+    def getwithdraw(self)
+    if balance>1000 and withdraw<balance:
+    print(self.withdraw)
+      
+     
